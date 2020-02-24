@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "cuong-angular": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cuong-angular"
+    }
+  },
+  "defaultProject": "cuong-angular",
+  "cli": {
+    "analytics": "76f94dbe-6010-4e82-9bf7-fcd80614e1b6"
+  }
 }
